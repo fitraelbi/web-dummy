@@ -11,7 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      Welcome to dummy web
+      Welcome to dummy web v2
     </h3>
   </div>
 </template>
